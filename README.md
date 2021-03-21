@@ -1,2 +1,2 @@
 # udemy_courses
-recording actual data for finishing some udemy courses, maybe
+recording actual data for tracking the process of udemy courses
